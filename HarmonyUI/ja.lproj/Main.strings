@@ -1,0 +1,33 @@
+
+/* Class = "UITabBarItem"; title = "profile"; ObjectID = "5wj-Kn-BLf"; */
+"5wj-Kn-BLf.title" = "profile";
+
+/* Class = "UINavigationItem"; title = "Discover"; ObjectID = "9LV-sE-lSC"; */
+"9LV-sE-lSC.title" = "Discover";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "EbO-0E-vcc"; */
+"EbO-0E-vcc.normalTitle" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Mr4-An-tWz"; */
+"Mr4-An-tWz.normalTitle" = "Login";
+
+/* Class = "UITabBarItem"; title = "Discover"; ObjectID = "TIQ-8z-6xH"; */
+"TIQ-8z-6xH.title" = "Discover";
+
+/* Class = "UIBarButtonItem"; title = "_"; ObjectID = "WW3-jm-rDm"; */
+"WW3-jm-rDm.title" = "_";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "XDu-W9-GqK"; */
+"XDu-W9-GqK.placeholder" = "Password";
+
+/* Class = "UITabBarItem"; title = "Posts"; ObjectID = "XRY-mp-ZKo"; */
+"XRY-mp-ZKo.title" = "Posts";
+
+/* Class = "UILabel"; text = "Don't have account ?"; ObjectID = "bvT-xM-n0B"; */
+"bvT-xM-n0B.text" = "Don't have account ?";
+
+/* Class = "UIBarButtonItem"; title = "Filter"; ObjectID = "jP7-w3-YQC"; */
+"jP7-w3-YQC.title" = "Filter";
+
+/* Class = "UITextField"; placeholder = "UserName"; ObjectID = "wQU-9G-GJU"; */
+"wQU-9G-GJU.placeholder" = "UserName";
